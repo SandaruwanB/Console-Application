@@ -19,7 +19,7 @@ int main(){
     cout << "\t\t\t| CALCULATOR AND NUMBER CONVERTER |\n\t\t\t|          VIRSION 1.0            |\n\t\t\t-----------------------------------\n";
 
     while (loop=="YES" || loop=="yes" || loop=="Yes" || loop=="y" || loop=="Y"){
-        cout << "\n\t\tPress,\n \t\t\tC - for Calculator\n \t\t\tN - for Decimal Number Converter \n\t\t\t\t: ";
+        cout << "\n\t\tPress,\n \t\t\tC - for Calculator\n \t\t\tN - for Number Converter \n\t\t\t\t: ";
         cin >> Mode;
         cout << endl;
 
